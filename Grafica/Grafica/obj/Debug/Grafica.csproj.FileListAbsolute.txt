@@ -1,0 +1,10 @@
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\bin\Debug\Grafica.exe
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\bin\Debug\Grafica.pdb
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.Properties.Resources.resources
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.csproj.GenerateResource.cache
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.exe
+C:\Users\aless\OneDrive\Desktop\Grafica\Grafica\obj\Debug\Grafica.pdb
